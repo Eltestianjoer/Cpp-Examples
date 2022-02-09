@@ -8,4 +8,5 @@ int main()
 
     cout<< "You Entered Number is= " << number; //print on screen
     return 0;
+    cout<<number;
 }
